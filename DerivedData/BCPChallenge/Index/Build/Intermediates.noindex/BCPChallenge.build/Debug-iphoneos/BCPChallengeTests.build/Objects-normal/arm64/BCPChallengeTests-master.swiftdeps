@@ -1,8 +1,0 @@
-version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
-options: "45b4b5746129267d80b47edc4a7a315a9b7815dcb158b49f5578044cfe4f457f"
-build_start_time: [1638223726, 924787998]
-build_end_time: [1638223727, 125818967]
-inputs:
-  "/Users/raul/Documents/GitHub/BCPChallenge/BCPChallengeTests/AGTBrokerTests.swift": [1638223722, 873930454]
-  "/Users/raul/Documents/GitHub/BCPChallenge/BCPChallengeTests/AGTMoneyTests.swift": [1638223722, 849525928]
-  "/Users/raul/Documents/GitHub/BCPChallenge/BCPChallengeTests/BCPChallengeTests.swift": [1638223722, 680903196]

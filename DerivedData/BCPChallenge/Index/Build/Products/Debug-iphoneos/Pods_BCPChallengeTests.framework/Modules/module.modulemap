@@ -1,6 +1,0 @@
-framework module Pods_BCPChallengeTests {
-  umbrella header "Pods-BCPChallengeTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
