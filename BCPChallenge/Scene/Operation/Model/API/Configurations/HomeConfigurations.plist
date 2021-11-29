@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Api</key>
+	<dict>
+		<key>scheme</key>
+		<dict>
+			<key>Debug</key>
+			<string>https://</string>
+			<key>Release</key>
+			<string>https://</string>
+		</dict>
+		<key>host</key>
+		<dict>
+			<key>Debug</key>
+			<string>41285dcf-df2d-4747-8b0d-b6ee1a0c340a.mock.pstmn.io</string>
+			<key>Release</key>
+			<string>41285dcf-df2d-4747-8b0d-b6ee1a0c340a.mock.pstmn.io</string>
+		</dict>
+		<key>baseStackExchange</key>
+		<dict>
+			<key>Debug</key>
+			<string>/stackExchange</string>
+			<key>Release</key>
+			<string>/stackExchange</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

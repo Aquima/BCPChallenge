@@ -2,7 +2,7 @@
 //  BCPChallengeTests.swift
 //  BCPChallengeTests
 //
-//  Created by Jordy Aguilar on 27/11/21.
+//  Created by Raul Quispe on 27/11/21.
 //
 
 import XCTest

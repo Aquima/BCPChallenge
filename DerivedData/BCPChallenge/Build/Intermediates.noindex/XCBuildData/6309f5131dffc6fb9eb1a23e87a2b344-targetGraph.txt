@@ -1,0 +1,13 @@
+Target dependency graph (5 targets)
+Alamofire in Pods, no dependencies
+IQKeyboardManagerSwift in Pods, no dependencies
+SnapKit in Pods, no dependencies
+Pods-BCPChallenge in Pods, depends on:
+Alamofire in Pods (explicit)
+IQKeyboardManagerSwift in Pods (explicit)
+SnapKit in Pods (explicit)
+BCPChallenge in BCPChallenge, depends on:
+Pods-BCPChallenge in Pods (implicit dependency via file 'Pods_BCPChallenge.framework' in build phase 'Link Binary')
+Alamofire in Pods (implicit dependency via options '-framework Alamofire' in build setting 'OTHER_LDFLAGS')
+IQKeyboardManagerSwift in Pods (implicit dependency via options '-framework IQKeyboardManagerSwift' in build setting 'OTHER_LDFLAGS')
+SnapKit in Pods (implicit dependency via options '-framework SnapKit' in build setting 'OTHER_LDFLAGS')
